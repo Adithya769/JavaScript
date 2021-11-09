@@ -1,0 +1,98 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-size: auto;
+    
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+.navber{
+    padding: 10px;
+    box-shadow: #008b8b 2px 3px 4px;
+}
+.navber a{
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.details{
+    text-align: center;
+}
+.details p{
+    padding: 10px;
+    margin: 10px;
+    background-color: bisque;
+    font-family:'Times New Roman', Times, serif;
+}
+/* .details img{
+    width: 100%;
+    
+} */
+/* form detail */
+.formdet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formdet form{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: #008b8b 2px 3px 4px;
+    text-transform: capitalize;
+}
+
+/* about us */
+footer{
+    text-align: center;
+}
+
+/*  */
+/* .produ{display: flex;}
+.produ span{
+    display: inline;
+} */
+ul{
+    display: flex;
+    height: 350px;
+    border: blanchedalmond solid 1px;
+    box-shadow: #008b8b 2px 3px 4px;
+    
+}
+ul li{
+    width: 300px;
+    height: 350px;
+    display: inline;
+    padding: 15px;
+    
+}
+ul li p{
+    font-family:monospace;
+    
+}
+ul li img{
+    align-items: center;
+}
+.pro{
+    margin: auto;
+    padding: auto;
+    width: 75%;
+}
+/* ul li img{
+    width: 100%;
+} */
+
+/* service page */
+.service{
+    text-align: center;
+}
+.service p{
+    padding: 10px;
+    margin: 10px;
+    border:orange solid 1px;
+    background-color: rgb(235, 193, 115);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
